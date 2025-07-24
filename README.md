@@ -5,4 +5,10 @@
 
 # Connect with me :
 <p align="left">
-<a href="https://instagram.com/alirezahosseinzadeh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alirezahosseinzadeh__" height="30" width="40" /></a></p>
+  <a href="https://instagram.com/alirezahosseinzadeh__" target="_blank">
+    <img src="https://raw.githubusercontent.com/alireza-turk-oglan/alireza-turk-oglan/refs/heads/main/assets/instagram.svg" alt="Instagram" height="30" width="30" />
+  </a>
+  <a href="https://t.me/AlirezaHosseinzade" target="_blank" style="margin-left: 10px;">
+    <img src="https://raw.githubusercontent.com/alireza-turk-oglan/alireza-turk-oglan/refs/heads/main/assets/telegram.svg" alt="Telegram" height="30" width="30" />
+  </a>
+</p>
