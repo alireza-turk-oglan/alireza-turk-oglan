@@ -6,11 +6,11 @@
 
 # Connect with me :
 
-<p align="left">
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
   <a href="https://instagram.com/alirezahosseinzadeh__" target="_blank">
     <img src="https://raw.githubusercontent.com/alireza-turk-oglan/alireza-turk-oglan/refs/heads/main/assets/instagram.svg" alt="Instagram" height="60" width="60" />
   </a>
-  <a href="https://t.me/AlirezaHosseinzade" target="_blank" style="margin-left: 10px;">
+  <a href="https://t.me/AlirezaHosseinzade" target="_blank">
     <img src="https://raw.githubusercontent.com/alireza-turk-oglan/alireza-turk-oglan/refs/heads/main/assets/telegram01.svg" alt="Telegram" height="60" width="60" />
   </a>
 </p>
