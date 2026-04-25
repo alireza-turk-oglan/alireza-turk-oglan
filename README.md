@@ -6,11 +6,10 @@
 
 # Connect with me :
 
-<p align="left">
-  <a href="https://instagram.com/alirezahosseinzadeh__" target="_blank">
-    <img src="https://raw.githubusercontent.com/alireza-turk-oglan/alireza-turk-oglan/refs/heads/main/assets/instagram.svg" alt="Instagram" height="60" width="60" style="display: inline-block; margin-right: 10px;">
-  </a>
-  <a href="https://t.me/AlirezaHosseinzade" target="_blank">
-    <img src="https://raw.githubusercontent.com/alireza-turk-oglan/alireza-turk-oglan/refs/heads/main/assets/telegram01.svg" alt="Telegram" height="60" width="60" style="display: inline-block;">
-  </a>
-</p>
+<a href="https://instagram.com/alirezahosseinzadeh__" target="_blank">
+  <img src="https://raw.githubusercontent.com/alireza-turk-oglan/alireza-turk-oglan/refs/heads/main/assets/instagram.svg" height="60" width="60">
+</a>
+&nbsp;&nbsp;
+<a href="https://t.me/AlirezaHosseinzade" target="_blank">
+  <img src="https://raw.githubusercontent.com/alireza-turk-oglan/alireza-turk-oglan/refs/heads/main/assets/telegram01.svg" height="60" width="60">
+</a>
